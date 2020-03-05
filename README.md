@@ -2,7 +2,7 @@
 
 ### Branching
 * Create a new branch called `edit-read-me`
-* Checkout your new branch
+* Checkout your new branch to something anything some change
 * Add a message to the end of your `README.md` file
 * Push the local changes to your branch
 
@@ -13,7 +13,7 @@
 
 ### Merging
 * Approve the pull request opened
-* Merger the pull request
+* Merged the pull request
 * View the merge in GitHub from the code tab of the master branch
 * In VSCode checkout the master branch
     * notice that the remote changes are not reflected in your local repository
