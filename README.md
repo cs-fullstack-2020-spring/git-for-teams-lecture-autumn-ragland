@@ -2,7 +2,7 @@
 
 ### Branching
 * Create a new branch called `edit-read-me`
-* Checkout your new branch
+* Trying to create a merge conflict
 * Add a message to the end of your `README.md` file
 * Push the local changes to your branch
 
